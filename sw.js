@@ -2,7 +2,7 @@ const cacheName = 'ilo-nimi-v5a';
 const appFiles = [
     '/ilo-nimi/',
     '/ilo-nimi/index.html',
-    '/ilo-nimi/main.js',
+    '/ilo-nimi/main.js?v=1',
     '/ilo-nimi/style.css',
     '/ilo-nimi/icon32.png',
     '/ilo-nimi/icon144.png',
