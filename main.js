@@ -22,7 +22,7 @@ function processWords(words)
         var words = sentence.split(" ");
     }
     var output = '';
-    var url = window.location.origin+'/~dustin/ilo-nimi/?t=';
+    var url = window.location.origin+'/ilo-nimi/?t=';
 
     for( x in words )
     {
